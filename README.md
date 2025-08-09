@@ -34,4 +34,73 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# Portofolio
+# Personal Portfolio
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+
+Welcome to my professional portfolio website! This project showcases my skills, projects, and experience as a developer. Built with Next.js and modern web technologies, this portfolio is designed to be fast, responsive, and accessible.
+
+## 🚀 Features
+
+- **Modern UI/UX** - Clean, responsive design that works on all devices
+- **Performance Optimized** - Built with Next.js for optimal performance and SEO
+- **Project Showcase** - Detailed display of my best work with case studies
+- **Contact Form** - Easy way to get in touch with me
+- **Dark/Light Mode** - Toggle between different color schemes
+
+## 🛠 Technologies Used
+
+- **Frontend**: Next.js, React, TypeScript
+- **Styling**: Tailwind CSS, CSS Modules
+- **Animation**: Framer Motion
+- **Deployment**: Vercel
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 14.6.0 or later
+- npm or yarn
+
+### Installation
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/HadHanns/Portofolio.git
+   cd Portofolio
+   ```
+
+2. Install dependencies
+   ```bash
+   npm install
+   # or
+   yarn
+   ```
+
+3. Run the development server
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Connect with Me
+
+- [GitHub](https://github.com/HadHanns)
+- [LinkedIn](#)  <!-- Add your LinkedIn profile link -->
+- [Twitter](#)    <!-- Add your Twitter profile link -->
+- [Email](mailto:your.email@example.com)  <!-- Add your email -->
+
+## 🙏 Acknowledgments
+
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
